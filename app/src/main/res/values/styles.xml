@@ -1,0 +1,26 @@
+<resources>
+    <style name="UserNameStyle">
+        <item name="android:textSize">18sp</item> <!-- Tamanho do texto maior -->
+    </style>
+
+    <style name="CategoryButtonStyle">
+        <item name="android:background">@color/azul_claro</item> <!-- Cor de fundo azul claro -->
+    </style>
+
+    <style name="BuyButtonStyle">
+        <item name="android:background">@color/roxo_claro</item> <!-- Cor de fundo roxo claro -->
+    </style>
+
+    <style name="ShareButtonStyle">
+        <item name="android:background">@color/amarelo_claro</item> <!-- Cor de fundo amarelo claro -->
+    </style>
+
+    <style name="CartButtonStyle">
+        <item name="android:background">@color/rosa_claro</item> <!-- Cor de fundo rosa claro -->
+    </style>
+
+    <style name="ChatButtonStyle">
+        <item name="android:background">@color/verde_claro</item> <!-- Cor de fundo verde claro -->
+        <item name="android:textColor">@android:color/white</item> <!-- Texto branco -->
+    </style>
+</resources>
